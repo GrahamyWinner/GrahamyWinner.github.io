@@ -1,11 +1,11 @@
 title: Emilie Graham # your name (or website title) here
 logo: "/images/ProfessionalPhoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <stong>Student of Geography and Environmental Sytems</strong> at University of Maryland, Baltimore County 
   <br><br>
-  Second description 
+  Keeping it real since 1993
   <br><br>
-  <a href="https://www.linkedin.com/in/EmilieGraham-GrahamyWinner/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/EmilieGraham-GrahamyWinner/" target="_blank">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
