@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Previous Work 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Gremlins in Baltimore](/pdf/gremlins_overview.pdf)
+<img src="images/gremlins.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
