@@ -9,7 +9,7 @@
 
 ---
 [Demogorgons in Rowan County](/pdf/demorogon_overview.pdf)
-<BR><img src="images/demorogon.JPG?raw=true"/ width=400>
+<BR><img src="images/demorogon.JPG?raw=true" width=400>
 
 ---
 [Project 3 Title](http://example.com/)
