@@ -6,7 +6,7 @@
 <BR><img src="images/gremlins.JPG?raw=true" width=400>
 
 ---
-[Demogorgons in Rowan County](/pdf/demorogon_overview.pdf)
+[Demogorgons in Rowan County](/pdf/demogorgon_overview.pdf)
 <BR><img src="images/demorogon.JPG?raw=true" width=400>
 
 ---
