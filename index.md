@@ -8,8 +8,8 @@
 <BR><img src="images/gremlins.JPG?raw=true" width=400>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Demogorgons in Rowan County](/pdf/demorogon_overview.pdf)
+<BR><img src="images/demorogon.JPG?raw=true"/ width=400>
 
 ---
 [Project 3 Title](http://example.com/)
