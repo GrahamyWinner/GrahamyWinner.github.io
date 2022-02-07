@@ -2,8 +2,6 @@
 
 ---
 
-### Previous Work 
-
 [Gremlins in Baltimore](/pdf/gremlins_overview.pdf)
 <BR><img src="images/gremlins.JPG?raw=true" width=400>
 
