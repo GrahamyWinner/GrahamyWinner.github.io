@@ -3,7 +3,7 @@
 ---
 
 ### [Gremlins in Baltimore](/pdf/gremlins_overview.pdf)
-<BR><>BR>
+<BR>
 Gremlins are on the loose in Baltimore!
 <BR><img src="images/gremlins.JPG?raw=true" width=400>
 
