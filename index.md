@@ -3,10 +3,14 @@
 ---
 
 [Gremlins in Baltimore](/pdf/gremlins_overview.pdf)
+<BR><>BR>
+Gremlins are on the loose in Baltimore!
 <BR><img src="images/gremlins.JPG?raw=true" width=400>
 
 ---
 [Demogorgons in Rowan County](/pdf/demogorgon_overview.pdf)
+<BR>
+Demogorgons are attacking Pumpkin Farms!
 <BR><img src="images/demorogon.JPG?raw=true" width=400>
 
 ---
