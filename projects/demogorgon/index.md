@@ -1,7 +1,4 @@
 ## Project 2: Demogorgons in Rowan County
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Again, similarly to the Gremlins in Baltimore project, this too was a fun way to put newly practiced and aquired skills to use. The goal of this project was to find out if it was possible that the Demogorgans were back and destroying the farmers pumpkins. There were multiple factors to consider including precipiation and elevation and the location of water. If you click on the link [Demogorgons in Rowan County](../../pdf/demogorgons_overview.pdf), you'll see the various maps highlightling the different factors considered when determing if Demogorgons were the culprits. 
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
