@@ -1,7 +1,4 @@
 ## Project 1: Gremlins in Baltimore
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** This was a particularly fun project. As anyone who has seen the Gremlin movies would know, Gremlins being on the loose in real-life would be a disaster. This project made use of the skills that the class had worked with throughout the first half of the semester to highlight where the Gremlins might be or what places they would avoid. Various mapping layers were used along with the many mapping tools required to facilitate the final product you see. If you click on the text "Gremlins in Baltimore" and not the image, you will see the entire collection of maps produced for the Gremlins in Baltimore project. 
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
